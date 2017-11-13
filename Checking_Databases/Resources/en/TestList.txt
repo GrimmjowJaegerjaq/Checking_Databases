@@ -1,0 +1,5 @@
+﻿testList=Список тестов
+queryeditor=Редактор запросов
+checking=Проверить
+checkingquery=Проверить запрос
+succes=Запрос выполнен успешно
